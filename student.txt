@@ -2,3 +2,4 @@ Student Management System
 Name : Rahul
 Age : 21
 Course: Python
+Email: rahul@gmail.com
